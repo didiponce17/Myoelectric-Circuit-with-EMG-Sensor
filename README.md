@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=NeS8_q_ePO4
 # Circuit Implementation Steps 
 
 
-#Muscle Sensor Power Supply Connection 
+# Muscle Sensor Power Supply Connection 
 
 The sensor requires an external power supply maximum ±18v. 
 
