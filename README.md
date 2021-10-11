@@ -7,7 +7,7 @@ The EMG envelope rectifies and amplifies the analog signals and the electrodes c
 
 Then, each servo motor will receive an independent digital signal using the Arduino microcontroller analog-to-digital converter.
 
-https://www.youtube.com/watch?v=NeS8_q_ePO4
+
 
 # Circuit Implementation Steps 
 
